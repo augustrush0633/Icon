@@ -8,6 +8,10 @@
             "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Proxy/Airport.png"
         },
         {
+            "name": "Advertising",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Proxy/Advertising.png"
+        },
+        {
             "name": "Auto_Speed",
             "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Proxy/Auto_Speed.png"
         },
@@ -104,8 +108,28 @@
             "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Proxy/CookieInfo.png"
         },
         {
+            "name": "Apple_Update",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Proxy/Apple_Update.png"
+        },
+        {
             "name": "Final_2",
             "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Proxy/Final_2.png"
+        },
+        {
+            "name": "Final_3",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Proxy/Final_3.png"
+        },
+        {
+            "name": "Final_4",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Proxy/Final_4.png"
+        },
+        {
+            "name": "DomesticMedia",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Proxy/DomesticMedia.png"
+        },
+        {
+            "name": "ForeignMedia",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Proxy/ForeignMedia.png"
         },
         {
             "name": "Netisp",
@@ -166,6 +190,14 @@
         {
             "name": "Apple",
             "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Apple.png"
+        },
+        {
+            "name": "Apple_2",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Apple_2.png"
+        },
+        {
+            "name": "Apple_3",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Apple_3.png"
         },
         {
             "name": "Badoo",
