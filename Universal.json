@@ -1,0 +1,579 @@
+{
+    "name": "Universal",
+    "description": "",
+    "time": "2024-10-29",
+    "icons": [
+        {
+            "name": "Airport",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Proxy/Airport.png"
+        },
+        {
+            "name": "Auto_Speed",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Proxy/Auto_Speed.png"
+        },
+        {
+            "name": "Available",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Proxy/Available.png"
+        },
+        {
+            "name": "Final",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Proxy/Final.png"
+        },
+        {
+            "name": "Game",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Proxy/Game.png"
+        },
+        {
+            "name": "Map",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Proxy/Map.png"
+        },
+        {
+            "name": "Reject",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Proxy/Reject.png"
+        },
+        {
+            "name": "Reject_2",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Proxy/Reject_2.png"
+        },
+        {
+            "name": "RoundRobin",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Proxy/RoundRobin.png"
+        },
+        {
+            "name": "Select",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Proxy/Select.png"
+        },
+        {
+            "name": "Speedtest",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Proxy/Speedtest.png"
+        },
+        {
+            "name": "SSID",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Proxy/SSID.png"
+        },
+        {
+            "name": "Streaming",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Proxy/Streaming.png"
+        },
+        {
+            "name": "StreamingSE",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Proxy/StreamingSE.png"
+        },
+        {
+            "name": "Video",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Proxy/Video.png"
+        },
+        {
+            "name": "Fallback",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Proxy/Fallback.png"
+        },
+        {
+            "name": "LoadBalance",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Proxy/LoadBalance.png"
+        },
+        {
+            "name": "Relay",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Proxy/Relay.png"
+        },
+        {
+            "name": "Select_2",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Proxy/Select_2.png"
+        },
+        {
+            "name": "UrlTest",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Proxy/UrlTest.png"
+        },
+        {
+            "name": "Cellular",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Proxy/Cellular.png"
+        },
+        {
+            "name": "Network",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Proxy/Network.png"
+        },
+        {
+            "name": "Wi-Fi",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Proxy/Wi-Fi.png"
+        },
+        {
+            "name": "AdOff",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Proxy/AdOff.png"
+        },
+        {
+            "name": "CookieInfo",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Proxy/CookieInfo.png"
+        },
+        {
+            "name": "Final_2",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Proxy/Final_2.png"
+        },
+        {
+            "name": "Netisp",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Proxy/Netisp.png"
+        },
+        {
+            "name": "NodeTools",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Proxy/NodeTools.png"
+        },
+        {
+            "name": "TaskCheck-in",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Proxy/TaskCheck-in.png"
+        },
+        {
+            "name": "Web_301",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Proxy/Web_301.png"
+        },
+        {
+            "name": "Web_302",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Proxy/Web_302.png"
+        },
+        {
+            "name": "Web_403",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Proxy/Web_403.png"
+        },
+        {
+            "name": "Web_404",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Proxy/Web_404.png"
+        },
+        {
+            "name": "Web_500",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Proxy/Web_500.png"
+        },
+        {
+            "name": "Web_502",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Proxy/Web_502.png"
+        },
+        {
+            "name": "Web_redirect",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Proxy/Web_redirect.png"
+        },
+        {
+            "name": "Web_warning",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Proxy/Web_warning.png"
+        },
+        {
+            "name": "Web_www",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Proxy/Web_www.png"
+        },
+        {
+            "name": "Air_Bnb",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Air_Bnb.png"
+        },
+        {
+            "name": "Amazon",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Amazon.png"
+        },
+        {
+            "name": "Apple",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Apple.png"
+        },
+        {
+            "name": "Badoo",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Badoo.png"
+        },
+        {
+            "name": "Bebo",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Bebo.png"
+        },
+        {
+            "name": "Behance",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Behance.png"
+        },
+        {
+            "name": "BiliBili",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/BiliBili.png"
+        },
+        {
+            "name": "Buzznet",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Buzznet.png"
+        },
+        {
+            "name": "Classmates",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Classmates.png"
+        },
+        {
+            "name": "Daily_Motion",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Daily_Motion.png"
+        },
+        {
+            "name": "Delicious",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Delicious.png"
+        },
+        {
+            "name": "deviantART",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/deviantART.png"
+        },
+        {
+            "name": "Diaspora",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Diaspora.png"
+        },
+        {
+            "name": "DingTalk",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/DingTalk.png"
+        },
+        {
+            "name": "Dots",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Dots.png"
+        },
+        {
+            "name": "Dribbble",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Dribbble.png"
+        },
+        {
+            "name": "Ello",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Ello.png"
+        },
+        {
+            "name": "Etsy",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Etsy.png"
+        },
+        {
+            "name": "Facebook",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Facebook.png"
+        },
+        {
+            "name": "FilmAffinity",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/FilmAffinity.png"
+        },
+        {
+            "name": "Flickr",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Flickr.png"
+        },
+        {
+            "name": "Foursquare",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Foursquare.png"
+        },
+        {
+            "name": "GitHub",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/GitHub.png"
+        },
+        {
+            "name": "Google_Plus",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Google_Plus.png"
+        },
+        {
+            "name": "Hi5",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Hi5.png"
+        },
+        {
+            "name": "Howcast",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Howcast.png"
+        },
+        {
+            "name": "Instagram",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Instagram.png"
+        },
+        {
+            "name": "Kickstarter",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Kickstarter.png"
+        },
+        {
+            "name": "KittyLink",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/KittyLink.png"
+        },
+        {
+            "name": "Lastfm",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Lastfm.png"
+        },
+        {
+            "name": "Line",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Line.png"
+        },
+        {
+            "name": "Linkedin",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Linkedin.png"
+        },
+        {
+            "name": "LiveJournal",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/LiveJournal.png"
+        },
+        {
+            "name": "Medium",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Medium.png"
+        },
+        {
+            "name": "Meetup",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Meetup.png"
+        },
+        {
+            "name": "Microsoft",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Microsoft.png"
+        },
+        {
+            "name": "Myspace",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Myspace.png"
+        },
+        {
+            "name": "NetEase",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/NetEase.png"
+        },
+        {
+            "name": "NetEase_Music",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/NetEase_Music.png"
+        },
+        {
+            "name": "Netflix",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Netflix.png"
+        },
+        {
+            "name": "NextDoor",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/NextDoor.png"
+        },
+        {
+            "name": "Path",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Path.png"
+        },
+        {
+            "name": "Paypal",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Paypal.png"
+        },
+        {
+            "name": "Periscope",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Periscope.png"
+        },
+        {
+            "name": "Pinterest",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Pinterest.png"
+        },
+        {
+            "name": "Quora",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Quora.png"
+        },
+        {
+            "name": "Reddit",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Reddit.png"
+        },
+        {
+            "name": "RenRen",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/RenRen.png"
+        },
+        {
+            "name": "ReverbNation",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/ReverbNation.png"
+        },
+        {
+            "name": "Sina_Weibo",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Sina_Weibo.png"
+        },
+        {
+            "name": "Skype",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Skype.png"
+        },
+        {
+            "name": "Skyrock",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Skyrock.png"
+        },
+        {
+            "name": "Snapchat",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Snapchat.png"
+        },
+        {
+            "name": "Snapfish",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Snapfish.png"
+        },
+        {
+            "name": "SoundCloud",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/SoundCloud.png"
+        },
+        {
+            "name": "Spotify",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Spotify.png"
+        },
+        {
+            "name": "Steam",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Steam.png"
+        },
+        {
+            "name": "StumbleUpon",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/StumbleUpon.png"
+        },
+        {
+            "name": "TAG",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/TAG.png"
+        },
+        {
+            "name": "Tagged",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Tagged.png"
+        },
+        {
+            "name": "Taringa",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Taringa.png"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Telegram.png"
+        },
+        {
+            "name": "Tencent",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Tencent.png"
+        },
+        {
+            "name": "TencentVideo",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/TencentVideo.png"
+        },
+        {
+            "name": "TikTok",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/TikTok.png"
+        },
+        {
+            "name": "Tinder",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Tinder.png"
+        },
+        {
+            "name": "Tout",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Tout.png"
+        },
+        {
+            "name": "TripAdvisor",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/TripAdvisor.png"
+        },
+        {
+            "name": "Tumblr",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Tumblr.png"
+        },
+        {
+            "name": "Twitter",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Twitter.png"
+        },
+        {
+            "name": "Uber",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Uber.png"
+        },
+        {
+            "name": "Viadeo",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Viadeo.png"
+        },
+        {
+            "name": "Vimeo",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Vimeo.png"
+        },
+        {
+            "name": "VK",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/VK.png"
+        },
+        {
+            "name": "We_Heart_It",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/We_Heart_It.png"
+        },
+        {
+            "name": "WeChat",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/WeChat.png"
+        },
+        {
+            "name": "Whatsapp",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Whatsapp.png"
+        },
+        {
+            "name": "XING",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/XING.png"
+        },
+        {
+            "name": "Yelp",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Yelp.png"
+        },
+        {
+            "name": "YouTube",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/YouTube.png"
+        },
+        {
+            "name": "YTOO",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/YTOO.png"
+        },
+        {
+            "name": "Zoom",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Social_Media/Zoom.png"
+        },
+        {
+            "name": "Account",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Google_Suite/Account.png"
+        },
+        {
+            "name": "Admin",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Google_Suite/Admin.png"
+        },
+        {
+            "name": "Adwords",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Google_Suite/Adwords.png"
+        },
+        {
+            "name": "Browser",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Google_Suite/Browser.png"
+        },
+        {
+            "name": "Business",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Google_Suite/Business.png"
+        },
+        {
+            "name": "Calendar",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Google_Suite/Calendar.png"
+        },
+        {
+            "name": "Docs",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Google_Suite/Docs.png"
+        },
+        {
+            "name": "Drive",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Google_Suite/Drive.png"
+        },
+        {
+            "name": "Forms",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Google_Suite/Forms.png"
+        },
+        {
+            "name": "Gmail",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Google_Suite/Gmail.png"
+        },
+        {
+            "name": "Google",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Google_Suite/Google.png"
+        },
+        {
+            "name": "Google_Maps",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Google_Suite/Google_Maps.png"
+        },
+        {
+            "name": "Google_Plus",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Google_Suite/Google_Plus.png"
+        },
+        {
+            "name": "Hangouts",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Google_Suite/Hangouts.png"
+        },
+        {
+            "name": "News",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Google_Suite/News.png"
+        },
+        {
+            "name": "Photos",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Google_Suite/Photos.png"
+        },
+        {
+            "name": "PlayStore",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Google_Suite/PlayStore.png"
+        },
+        {
+            "name": "Sheets",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Google_Suite/Sheets.png"
+        },
+        {
+            "name": "Slides",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Google_Suite/Slides.png"
+        },
+        {
+            "name": "Translate",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Google_Suite/Translate.png"
+        },
+        {
+            "name": "Vault",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Google_Suite/Vault.png"
+        },
+        {
+            "name": "Voice",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Google_Suite/Voice.png"
+        },
+        {
+            "name": "YouTube",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Google_Suite/YouTube.png"
+        }
+    ]
+}
