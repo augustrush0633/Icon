@@ -4,6 +4,10 @@
     "time": "2024-10-29",
     "icons": [
         {
+            "name": "WorldMap",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/WorldMap.png"
+        },
+        {
             "name": "Abkhazia",
             "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Hand_Painted/Abkhazia.png"
         },

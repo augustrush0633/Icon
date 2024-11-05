@@ -2,7 +2,11 @@
     "name": "Flag_Rounded_Hand_Painted",
     "description": "augustrush0633",
     "time": "2024-10-29",
-    "icons": [
+    "icons": [ 
+        {
+            "name": "WorldMap",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Rounded_Hand_Painted/WorldMap.png"
+        },
         {
             "name": "Abkhazia",
             "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Rounded_Hand_Painted/Abkhazia.png"
