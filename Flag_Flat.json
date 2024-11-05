@@ -1,0 +1,1055 @@
+{
+    "name": "Flag_Flat",
+    "description": "augustrush0633",
+    "time": "2024-10-29",
+    "icons": [
+        {
+            "name": "WorldMap",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/WorldMap.png"
+        },
+        {
+            "name": "Afghanistan",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Afghanistan.png"
+        },
+        {
+            "name": "AlandIslands",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/AlandIslands.png"
+        },
+        {
+            "name": "Albania",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Albania.png"
+        },
+        {
+            "name": "Algeria",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Algeria.png"
+        },
+        {
+            "name": "AmericanSamoa",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/AmericanSamoa.png"
+        },
+        {
+            "name": "Andorra",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Andorra.png"
+        },
+        {
+            "name": "Angola",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Angola.png"
+        },
+        {
+            "name": "Anguilla",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Anguilla.png"
+        },
+        {
+            "name": "Antarctica",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Antarctica.png"
+        },
+        {
+            "name": "AntiguaAndBarbuda",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/AntiguaAndBarbuda.png"
+        },
+        {
+            "name": "Argentina",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Argentina.png"
+        },
+        {
+            "name": "Armenia",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Armenia.png"
+        },
+        {
+            "name": "Aruba",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Aruba.png"
+        },
+        {
+            "name": "AscensionIsland",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/AscensionIsland.png"
+        },
+        {
+            "name": "Australia",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Australia.png"
+        },
+        {
+            "name": "Austria",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Austria.png"
+        },
+        {
+            "name": "Azerbaijan",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Azerbaijan.png"
+        },
+        {
+            "name": "Bahamas",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Bahamas.png"
+        },
+        {
+            "name": "Bahrain",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Bahrain.png"
+        },
+        {
+            "name": "Bangladesh",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Bangladesh.png"
+        },
+        {
+            "name": "Barbados",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Barbados.png"
+        },
+        {
+            "name": "Belarus",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Belarus.png"
+        },
+        {
+            "name": "Belgium",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Belgium.png"
+        },
+        {
+            "name": "Belize",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Belize.png"
+        },
+        {
+            "name": "Benin",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Benin.png"
+        },
+        {
+            "name": "Bermuda",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Bermuda.png"
+        },
+        {
+            "name": "Bhutan",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Bhutan.png"
+        },
+        {
+            "name": "Bolivia",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Bolivia.png"
+        },
+        {
+            "name": "BosniaAndHerzegovina",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/BosniaAndHerzegovina.png"
+        },
+        {
+            "name": "Botswana",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Botswana.png"
+        },
+        {
+            "name": "BouvetIsland",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/BouvetIsland.png"
+        },
+        {
+            "name": "Brazil",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Brazil.png"
+        },
+        {
+            "name": "BritishIndianOceanTerritory",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/BritishIndianOceanTerritory.png"
+        },
+        {
+            "name": "BritishVirginIslands",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/BritishVirginIslands.png"
+        },
+        {
+            "name": "BruneiDarussalam",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/BruneiDarussalam.png"
+        },
+        {
+            "name": "Bulgaria",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Bulgaria.png"
+        },
+        {
+            "name": "BurkinaFaso",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/BurkinaFaso.png"
+        },
+        {
+            "name": "Burundi",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Burundi.png"
+        },
+        {
+            "name": "CaboVerde",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/CaboVerde.png"
+        },
+        {
+            "name": "Cambodia",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Cambodia.png"
+        },
+        {
+            "name": "Cameroon",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Cameroon.png"
+        },
+        {
+            "name": "Canada",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Canada.png"
+        },
+        {
+            "name": "CanaryIslands",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/CanaryIslands.png"
+        },
+        {
+            "name": "CaribbeanNetherlands",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/CaribbeanNetherlands.png"
+        },
+        {
+            "name": "CaymanIslands",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/CaymanIslands.png"
+        },
+        {
+            "name": "CentralAfricanRepublic",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/CentralAfricanRepublic.png"
+        },
+        {
+            "name": "CeutaAndMelilla",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/CeutaAndMelilla.png"
+        },
+        {
+            "name": "Chad",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Chad.png"
+        },
+        {
+            "name": "Chile",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Chile.png"
+        },
+        {
+            "name": "China",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/China.png"
+        },
+        {
+            "name": "ChristmasIsland",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/ChristmasIsland.png"
+        },
+        {
+            "name": "ClippertonIsland",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/ClippertonIsland.png"
+        },
+        {
+            "name": "CocosKeelingIslands",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/CocosKeelingIslands.png"
+        },
+        {
+            "name": "Colombia",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Colombia.png"
+        },
+        {
+            "name": "Comoros",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Comoros.png"
+        },
+        {
+            "name": "CongoBrazzaville",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/CongoBrazzaville.png"
+        },
+        {
+            "name": "CongoKinshasa",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/CongoKinshasa.png"
+        },
+        {
+            "name": "CookIslands",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/CookIslands.png"
+        },
+        {
+            "name": "CostaRica",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/CostaRica.png"
+        },
+        {
+            "name": "CoteDivoire",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/CoteDivoire.png"
+        },
+        {
+            "name": "Croatia",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Croatia.png"
+        },
+        {
+            "name": "Cuba",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Cuba.png"
+        },
+        {
+            "name": "Curacao",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Curacao.png"
+        },
+        {
+            "name": "Cyprus",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Cyprus.png"
+        },
+        {
+            "name": "Czechia",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Czechia.png"
+        },
+        {
+            "name": "Denmark",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Denmark.png"
+        },
+        {
+            "name": "DiegoGarcia",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/DiegoGarcia.png"
+        },
+        {
+            "name": "Djibouti",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Djibouti.png"
+        },
+        {
+            "name": "Dominica",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Dominica.png"
+        },
+        {
+            "name": "DominicanRepublic",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/DominicanRepublic.png"
+        },
+        {
+            "name": "Ecuador",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Ecuador.png"
+        },
+        {
+            "name": "Egypt",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Egypt.png"
+        },
+        {
+            "name": "ElSalvador",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/ElSalvador.png"
+        },
+        {
+            "name": "England",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/England.png"
+        },
+        {
+            "name": "EquatorialGuinea",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/EquatorialGuinea.png"
+        },
+        {
+            "name": "Eritrea",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Eritrea.png"
+        },
+        {
+            "name": "Estonia",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Estonia.png"
+        },
+        {
+            "name": "Eswatini",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Eswatini.png"
+        },
+        {
+            "name": "Ethiopia",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Ethiopia.png"
+        },
+        {
+            "name": "EuropeanUnion",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/EuropeanUnion.png"
+        },
+        {
+            "name": "FalklandIslands",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/FalklandIslands.png"
+        },
+        {
+            "name": "FaroeIslands",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/FaroeIslands.png"
+        },
+        {
+            "name": "Fiji",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Fiji.png"
+        },
+        {
+            "name": "Finland",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Finland.png"
+        },
+        {
+            "name": "France",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/France.png"
+        },
+        {
+            "name": "FrenchGuiana",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/FrenchGuiana.png"
+        },
+        {
+            "name": "FrenchPolynesia",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/FrenchPolynesia.png"
+        },
+        {
+            "name": "FrenchSouthernTerritories",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/FrenchSouthernTerritories.png"
+        },
+        {
+            "name": "Gabon",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Gabon.png"
+        },
+        {
+            "name": "Gambia",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Gambia.png"
+        },
+        {
+            "name": "Georgia",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Georgia.png"
+        },
+        {
+            "name": "Germany",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Germany.png"
+        },
+        {
+            "name": "Ghana",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Ghana.png"
+        },
+        {
+            "name": "Gibraltar",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Gibraltar.png"
+        },
+        {
+            "name": "Greece",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Greece.png"
+        },
+        {
+            "name": "Greenland",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Greenland.png"
+        },
+        {
+            "name": "Grenada",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Grenada.png"
+        },
+        {
+            "name": "Guadeloupe",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Guadeloupe.png"
+        },
+        {
+            "name": "Guam",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Guam.png"
+        },
+        {
+            "name": "Guatemala",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Guatemala.png"
+        },
+        {
+            "name": "Guernsey",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Guernsey.png"
+        },
+        {
+            "name": "Guinea",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Guinea.png"
+        },
+        {
+            "name": "GuineaBissau",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/GuineaBissau.png"
+        },
+        {
+            "name": "Guyana",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Guyana.png"
+        },
+        {
+            "name": "Haiti",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Haiti.png"
+        },
+        {
+            "name": "HeardAndMcdonaldIslands",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/HeardAndMcdonaldIslands.png"
+        },
+        {
+            "name": "Honduras",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Honduras.png"
+        },
+        {
+            "name": "HongKong",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/HongKong.png"
+        },
+        {
+            "name": "Hungary",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Hungary.png"
+        },
+        {
+            "name": "Iceland",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Iceland.png"
+        },
+        {
+            "name": "India",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/India.png"
+        },
+        {
+            "name": "Indonesia",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Indonesia.png"
+        },
+        {
+            "name": "Iran",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Iran.png"
+        },
+        {
+            "name": "Iraq",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Iraq.png"
+        },
+        {
+            "name": "Ireland",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Ireland.png"
+        },
+        {
+            "name": "IsleOfMan",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/IsleOfMan.png"
+        },
+        {
+            "name": "Israel",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Israel.png"
+        },
+        {
+            "name": "Italy",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Italy.png"
+        },
+        {
+            "name": "Jamaica",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Jamaica.png"
+        },
+        {
+            "name": "Japan",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Japan.png"
+        },
+        {
+            "name": "Jersey",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Jersey.png"
+        },
+        {
+            "name": "Jordan",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Jordan.png"
+        },
+        {
+            "name": "Kazakhstan",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Kazakhstan.png"
+        },
+        {
+            "name": "Kenya",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Kenya.png"
+        },
+        {
+            "name": "Kiribati",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Kiribati.png"
+        },
+        {
+            "name": "Kosovo",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Kosovo.png"
+        },
+        {
+            "name": "Kuwait",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Kuwait.png"
+        },
+        {
+            "name": "Kyrgyzstan",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Kyrgyzstan.png"
+        },
+        {
+            "name": "Laos",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Laos.png"
+        },
+        {
+            "name": "Latvia",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Latvia.png"
+        },
+        {
+            "name": "Lebanon",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Lebanon.png"
+        },
+        {
+            "name": "Lesotho",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Lesotho.png"
+        },
+        {
+            "name": "Liberia",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Liberia.png"
+        },
+        {
+            "name": "Libya",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Libya.png"
+        },
+        {
+            "name": "Liechtenstein",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Liechtenstein.png"
+        },
+        {
+            "name": "Lithuania",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Lithuania.png"
+        },
+        {
+            "name": "Luxembourg",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Luxembourg.png"
+        },
+        {
+            "name": "Macao",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Macao.png"
+        },
+        {
+            "name": "Madagascar",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Madagascar.png"
+        },
+        {
+            "name": "Malawi",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Malawi.png"
+        },
+        {
+            "name": "Malaysia",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Malaysia.png"
+        },
+        {
+            "name": "Maldives",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Maldives.png"
+        },
+        {
+            "name": "Mali",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Mali.png"
+        },
+        {
+            "name": "Malta",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Malta.png"
+        },
+        {
+            "name": "MarshallIslands",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/MarshallIslands.png"
+        },
+        {
+            "name": "Martinique",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Martinique.png"
+        },
+        {
+            "name": "Mauritania",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Mauritania.png"
+        },
+        {
+            "name": "Mauritius",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Mauritius.png"
+        },
+        {
+            "name": "Mayotte",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Mayotte.png"
+        },
+        {
+            "name": "Mexico",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Mexico.png"
+        },
+        {
+            "name": "Micronesia",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Micronesia.png"
+        },
+        {
+            "name": "Moldova",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Moldova.png"
+        },
+        {
+            "name": "Monaco",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Monaco.png"
+        },
+        {
+            "name": "Mongolia",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Mongolia.png"
+        },
+        {
+            "name": "Montenegro",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Montenegro.png"
+        },
+        {
+            "name": "Montserrat",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Montserrat.png"
+        },
+        {
+            "name": "Morocco",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Morocco.png"
+        },
+        {
+            "name": "Mozambique",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Mozambique.png"
+        },
+        {
+            "name": "MyanmarBurma",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/MyanmarBurma.png"
+        },
+        {
+            "name": "Namibia",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Namibia.png"
+        },
+        {
+            "name": "Nauru",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Nauru.png"
+        },
+        {
+            "name": "Nepal",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Nepal.png"
+        },
+        {
+            "name": "Netherlands",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Netherlands.png"
+        },
+        {
+            "name": "NewCaledonia",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/NewCaledonia.png"
+        },
+        {
+            "name": "NewZealand",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/NewZealand.png"
+        },
+        {
+            "name": "Nicaragua",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Nicaragua.png"
+        },
+        {
+            "name": "Niger",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Niger.png"
+        },
+        {
+            "name": "Nigeria",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Nigeria.png"
+        },
+        {
+            "name": "Niue",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Niue.png"
+        },
+        {
+            "name": "NorfolkIsland",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/NorfolkIsland.png"
+        },
+        {
+            "name": "NorthernMarianaIslands",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/NorthernMarianaIslands.png"
+        },
+        {
+            "name": "NorthKorea",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/NorthKorea.png"
+        },
+        {
+            "name": "NorthMacedonia",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/NorthMacedonia.png"
+        },
+        {
+            "name": "Norway",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Norway.png"
+        },
+        {
+            "name": "Oman",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Oman.png"
+        },
+        {
+            "name": "Pakistan",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Pakistan.png"
+        },
+        {
+            "name": "Palau",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Palau.png"
+        },
+        {
+            "name": "PalestinianTerritories",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/PalestinianTerritories.png"
+        },
+        {
+            "name": "Panama",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Panama.png"
+        },
+        {
+            "name": "PapuaNewGuinea",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/PapuaNewGuinea.png"
+        },
+        {
+            "name": "Paraguay",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Paraguay.png"
+        },
+        {
+            "name": "Peru",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Peru.png"
+        },
+        {
+            "name": "Philippines",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Philippines.png"
+        },
+        {
+            "name": "PitcairnIslands",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/PitcairnIslands.png"
+        },
+        {
+            "name": "Poland",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Poland.png"
+        },
+        {
+            "name": "Portugal",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Portugal.png"
+        },
+        {
+            "name": "PuertoRico",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/PuertoRico.png"
+        },
+        {
+            "name": "Qatar",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Qatar.png"
+        },
+        {
+            "name": "Reunion",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Reunion.png"
+        },
+        {
+            "name": "Romania",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Romania.png"
+        },
+        {
+            "name": "RussianFederation",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/RussianFederation.png"
+        },
+        {
+            "name": "Rwanda",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Rwanda.png"
+        },
+        {
+            "name": "SaintBarthelemy",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/SaintBarthelemy.png"
+        },
+        {
+            "name": "SaintHelena",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/SaintHelena.png"
+        },
+        {
+            "name": "SaintKittsAndNevis",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/SaintKittsAndNevis.png"
+        },
+        {
+            "name": "SaintLucia",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/SaintLucia.png"
+        },
+        {
+            "name": "SaintMartin",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/SaintMartin.png"
+        },
+        {
+            "name": "SaintPierreAndMiquelon",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/SaintPierreAndMiquelon.png"
+        },
+        {
+            "name": "SaintVincentAndGrenadines",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/SaintVincentAndGrenadines.png"
+        },
+        {
+            "name": "Samoa",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Samoa.png"
+        },
+        {
+            "name": "SanMarino",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/SanMarino.png"
+        },
+        {
+            "name": "SaoTomeAndPrincipe",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/SaoTomeAndPrincipe.png"
+        },
+        {
+            "name": "SaudiArabia",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/SaudiArabia.png"
+        },
+        {
+            "name": "Scotland",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Scotland.png"
+        },
+        {
+            "name": "Senegal",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Senegal.png"
+        },
+        {
+            "name": "Serbia",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Serbia.png"
+        },
+        {
+            "name": "Seychelles",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Seychelles.png"
+        },
+        {
+            "name": "SierraLeone",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/SierraLeone.png"
+        },
+        {
+            "name": "Singapore",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Singapore.png"
+        },
+        {
+            "name": "SintMaarten",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/SintMaarten.png"
+        },
+        {
+            "name": "Slovakia",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Slovakia.png"
+        },
+        {
+            "name": "Slovenia",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Slovenia.png"
+        },
+        {
+            "name": "SolomonIslands",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/SolomonIslands.png"
+        },
+        {
+            "name": "Somalia",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Somalia.png"
+        },
+        {
+            "name": "SouthAfrica",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/SouthAfrica.png"
+        },
+        {
+            "name": "SouthGeorgiaAndSouthSandwichIslands",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/SouthGeorgiaAndSouthSandwichIslands.png"
+        },
+        {
+            "name": "SouthKorea",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/SouthKorea.png"
+        },
+        {
+            "name": "SouthSudan",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/SouthSudan.png"
+        },
+        {
+            "name": "Spain",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Spain.png"
+        },
+        {
+            "name": "SriLanka",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/SriLanka.png"
+        },
+        {
+            "name": "Sudan",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Sudan.png"
+        },
+        {
+            "name": "Suriname",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Suriname.png"
+        },
+        {
+            "name": "SvalbardAndJanMayen",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/SvalbardAndJanMayen.png"
+        },
+        {
+            "name": "Sweden",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Sweden.png"
+        },
+        {
+            "name": "Switzerland",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Switzerland.png"
+        },
+        {
+            "name": "SyrianArabRepublic",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/SyrianArabRepublic.png"
+        },
+        {
+            "name": "Taiwan",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Taiwan.png"
+        },
+        {
+            "name": "Tajikistan",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Tajikistan.png"
+        },
+        {
+            "name": "Tanzania",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Tanzania.png"
+        },
+        {
+            "name": "Thailand",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Thailand.png"
+        },
+        {
+            "name": "TimorLeste",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/TimorLeste.png"
+        },
+        {
+            "name": "Togo",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Togo.png"
+        },
+        {
+            "name": "Tokelau",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Tokelau.png"
+        },
+        {
+            "name": "Tonga",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Tonga.png"
+        },
+        {
+            "name": "TrinidadAndTobago",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/TrinidadAndTobago.png"
+        },
+        {
+            "name": "TristanDaCunha",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/TristanDaCunha.png"
+        },
+        {
+            "name": "Tunisia",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Tunisia.png"
+        },
+        {
+            "name": "Turkey",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Turkey.png"
+        },
+        {
+            "name": "Turkmenistan",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Turkmenistan.png"
+        },
+        {
+            "name": "TurksAndCaicosIslands",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/TurksAndCaicosIslands.png"
+        },
+        {
+            "name": "Tuvalu",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Tuvalu.png"
+        },
+        {
+            "name": "Uganda",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Uganda.png"
+        },
+        {
+            "name": "Ukraine",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Ukraine.png"
+        },
+        {
+            "name": "UnitedArabEmirates",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/UnitedArabEmirates.png"
+        },
+        {
+            "name": "UnitedKingdom",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/UnitedKingdom.png"
+        },
+        {
+            "name": "UnitedNations",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/UnitedNations.png"
+        },
+        {
+            "name": "UnitedStates",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/UnitedStates.png"
+        },
+        {
+            "name": "UnitedStatesMinorOutlyingIslands",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/UnitedStatesMinorOutlyingIslands.png"
+        },
+        {
+            "name": "UnitedStatesVirginIslands",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/UnitedStatesVirginIslands.png"
+        },
+        {
+            "name": "Uruguay",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Uruguay.png"
+        },
+        {
+            "name": "Uzbekistan",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Uzbekistan.png"
+        },
+        {
+            "name": "Vanuatu",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Vanuatu.png"
+        },
+        {
+            "name": "VaticanCity",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/VaticanCity.png"
+        },
+        {
+            "name": "Venezuela",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Venezuela.png"
+        },
+        {
+            "name": "Vietnam",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Vietnam.png"
+        },
+        {
+            "name": "Wales",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Wales.png"
+        },
+        {
+            "name": "WallisAndFutuna",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/WallisAndFutuna.png"
+        },
+        {
+            "name": "WesternSahara",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/WesternSahara.png"
+        },
+        {
+            "name": "Yemen",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Yemen.png"
+        },
+        {
+            "name": "Zambia",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Zambia.png"
+        },
+        {
+            "name": "Zimbabwe",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/Flag_Flat/Zimbabwe.png"
+        }
+    ]
+}
