@@ -1,0 +1,23 @@
+{
+    "name": "App",
+    "description": "augustrush0633",
+    "time": "2026-07-24",
+    "icons": [
+        {
+            "name": "WhosTV",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/App/WhosTV.jpg"
+        },
+        {
+            "name": "dongchedi",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/App/dongchedi.png"
+        },
+        {
+            "name": "futuniuniu",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/App/futuniuniu.png"
+        },
+        {
+            "name": "tainyiyunpan",
+            "url": "https://raw.githubusercontent.com/augustrush0633/Icon/main/App/tainyiyunpan.png"
+        }
+    ]
+}
